@@ -120,7 +120,7 @@ def start(message):
               "للمزيد وفهم اللعبة، اكتب 'التعليمات' واقرأ قواعد اللعبة."
     bot.send_animation(
         chat_id=message.chat.id,
-        animation="https://www.miguelcoc.es/wp-content/uploads/2015/03/1.gif",
+        animation="https://freight.cargo.site/w/533/i/cb4cc454dace15a49702671ac0ed7ca0f6887feb0e5bf525cbba6d5251b60441/COC-.gif",
         caption=caption,
         parse_mode='Markdown',
         reply_markup=markup
